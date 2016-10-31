@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RuntimeImages</string>
+    <string name="click_me">Click me!!!</string>
+    <string name="catalog">Moshiour Academy</string>
+    <string name="lorem_ipsum">The Lorem Ipsum is simply dummy text of the composition and Print Layout. Lorem Ipsum has been the standard dummy text printing since the 1500s, when an unknown assembled all the pieces of text to make a type specimen book fonts. It has survived not only five centuries, but also the leap into electronic typesetting, its content is not altered. It was popularized in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently, by its inclusion in text layout applications like Aldus PageMaker.</string>
+    <string name="change_image">Change TO Resource</string>
+    <string name="change_to_asset">Change To Asset</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Moshiour\Desktop\dev\ANDROID_APPS\Top10Downloader2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Moshiour\Desktop\dev\ANDROID_APPS\Top10Downloader2\app\build\intermediates\pre-dexed\debug\classes-00cfe007358a2c37a8158aa5b00873f163b5b412.jar" />
+    </item>
+    <item
+        jar="C:\ANDROID_SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Moshiour\Desktop\dev\ANDROID_APPS\Top10Downloader2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1decb0749235555135e82d4246e50f6c64199fe1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Moshiour\Desktop\dev\ANDROID_APPS\Top10Downloader2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Moshiour\Desktop\dev\ANDROID_APPS\Top10Downloader2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c8d8ab330d5bb0e453b277077b721b62b9d656f9.jar" />
+    </item>
+
+</items>

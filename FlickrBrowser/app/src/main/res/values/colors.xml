@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="flickrPrimaryBackgroundColor">@color/md_blue_500</color>
+    <color name="flickSecondaryBackgroundColor">@color/md_blue_700</color>
+    <color name="flickBackgroundAccent">@color/md_pink_500</color>
+    <color name="flickBackgroundColor">@color/md_grey_600</color>
+    <color name="flickPrimaryTextColor">@color/md_white_1000</color>
+    <color name="flickSecondaryTextColor">@color/md_yellow_500</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
